@@ -3,13 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1-9Q0gSxL08XYo7J135tLtJL_Bitr7uU",
-  authDomain: "chruchsiteauth.firebaseapp.com",
-  projectId: "chruchsiteauth",
-  storageBucket: "chruchsiteauth.appspot.com",
-  messagingSenderId: "685790351242",
-  appId: "1:685790351242:web:8b8a79b7db8dd8cdf4c273",
-  measurementId: "G-K57B0XXE68"
+  apiKey: "AIzaSyDlEh4wWib9C9AA9VUlQCa-IDMGz2gCUHw",
+  authDomain: "forumwebapps.firebaseapp.com",
+  projectId: "forumwebapps",
+  storageBucket: "forumwebapps.appspot.com",
+  messagingSenderId: "500322159419",
+  appId: "1:500322159419:web:af5f1171e8cdbc8d94c51e"
 };
 
 // Initialize Firebase
