@@ -1,1 +1,1 @@
-# Project Create Church Site (auth, music)
+# Project (auth, music)
